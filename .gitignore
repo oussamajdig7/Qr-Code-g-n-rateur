@@ -1,0 +1,16 @@
+# Output images
+*.png
+*.jpg
+*.jpeg
+*.webp
+my_qr.png
+
+# Environments & Python cache
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
